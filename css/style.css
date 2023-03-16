@@ -13,8 +13,10 @@ ul {
 /*style*/
 .container{
     background-color: #F5F5F5;
-    width: 1280px;
-    height: 800px;
+    max-width: 1280px;
+    padding-right: 165px;
+    padding-left: 118px;
+    margin: 0 auto;
 }
 .say{
     max-width: 1280px;
@@ -34,8 +36,8 @@ body{
 .work{
     padding-top: 68px;
     padding-bottom: 73px;
-    padding-left: 123px;
-    padding-right: 771px;
+    padding-right: 165px;
+    padding-left: 118px;
 }
 .h2-how{
     font-weight: 400;
@@ -97,5 +99,5 @@ body{
     margin-bottom: 19px;
 }
 .members-list-li-2  .members-p{
-    margin-bottom: 54px;
+    margin-bottom: 19px;   
 }
